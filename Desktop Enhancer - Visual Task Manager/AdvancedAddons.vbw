@@ -1,0 +1,5 @@
+clsSection = 154, 203, 889, 858, C
+frmDock = 66, 89, 801, 742, , 200, 235, 935, 890, C
+mdlIniFiles = 110, 145, 845, 800, 
+frmDownloadFile = 140, 238, 875, 893, , 32, 36, 375, 255, C
+mdlTaskManager = 0, 0, 0, 0, C

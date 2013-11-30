@@ -1,0 +1,8 @@
+frmMain = 50, 28, 585, 476, C, 221, 301, 753, 749, C
+clsDesktopEnhancer = 214, 157, 866, 786, C
+clsSystray = 110, 110, 762, 726, C
+clsScreenResolution = 44, 44, 762, 660, C
+frmChangeResolution = 154, 154, 806, 770, C, 148, 93, 324, 398, C
+mdlWindowStuff = 44, 44, 668, 534, C
+frmAbout = 264, 264, 906, 855, C, 242, 242, 453, 833, C
+frmLoginScreen = 44, 58, 779, 713, , 6, 16, 933, 835, C
